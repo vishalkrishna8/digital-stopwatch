@@ -21,5 +21,4 @@ This is a digital stopwatch program written in JavaScript that allows users to m
 4. You can pause the stopwatch at any time by clicking the stop button. 
 5. To reset the stopwatch to zero, click the reset button.
 
-## License
 
