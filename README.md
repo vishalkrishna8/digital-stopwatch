@@ -4,7 +4,7 @@
 <!-- Live demo -->
 
 
-This is a digital stopwatch program written in JavaScript that allows users to measure time intervals accurately. The program uses HTML, CSS, and JavaScript to create a graphical user interface (GUI) and provide the stopwatch functionality.
+This is a digital stopwatch program written in JavaScript that allows users to measure time intervals accurately. The program uses HTML, CSS, and JavaScript to provide the stopwatch functionality.
 
 ## Features
 
