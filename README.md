@@ -23,4 +23,3 @@ This is a digital stopwatch program written in JavaScript that allows users to m
 
 ## License
 
-This program is licensed under the MIT License. You are free to use, modify, and distribute this program as you see fit.
